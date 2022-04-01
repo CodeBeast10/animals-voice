@@ -1,0 +1,36 @@
+.header_div {
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-family: 'Shalimar', cursive;
+    font-size: 30px;
+    font-weight: bold; 
+    letter-spacing: 2px;
+    color:rgb(230, 248, 130);
+}
+
+body {
+    background-color:rgb(253, 181, 231);
+}
+
+.main_div button {
+ margin-top: 30px; 
+ width: 130px; 
+ font-weight: bolder; 
+ letter-spacing: 3px;
+}
+
+h3 {
+    font-family: 'Special Elite', cursive;
+    letter-spacing: 2px; 
+    color:rgb(231, 160, 127);
+}
+
+.copy_footer {
+    position: fixed; 
+    bottom: 0; 
+    width: 100%; 
+    background-color:rgb(183, 57, 241); 
+    font-size: 19px; 
+    line-height: 3;
+    text-align: center; 
+    font-weight: bold;
+}
